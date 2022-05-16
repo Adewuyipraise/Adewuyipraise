@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Adewuyipraise
-- 👀 I’m interested in mobile and desktop application
-- 🌱 I’m currently learning.
+- 👀 I’m interested in mobile, desktop application and website designs
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me dial 09025958168
 
